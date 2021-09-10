@@ -8,5 +8,7 @@ For using the package, one can pip install the package with the command "pip ins
 1. matplotlib
 
 So make sure to pip install this package as well.
+
 Anyone is open to contribute to the package files to add new features and functions to the package classes.
+
 **This Package is not uploaded to PyPi. However similar distributions package might be uploaded on PyPi**
