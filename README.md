@@ -1,6 +1,6 @@
 ﻿# Distributions
 
-This is a python package that can be used for working with different types of probability distributions.
+This is a CLI python package that can be used for working with different types of probability distributions.
 
 The repository also contain testing files for testing out the package.
 
